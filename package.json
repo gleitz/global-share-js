@@ -1,0 +1,33 @@
+{
+  "name": "globalshare",
+  "version": "0.0.1",
+  "description": "ShareJS as a Service",
+  "main": "lib/index.js",
+  "dependencies": {
+    "livedb": "~0.2.4",
+    "browserchannel": "~1.0.7",
+    "livedb-mongo": "~0.2.5",
+    "connect": "~2.9.0",
+    "redis": "~0.8.6",
+    "share": "~0.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gleitz/global-share-js.git"
+  },
+  "keywords": [
+    "sharejs",
+    "hackpad",
+    "etherpad",
+    "as a service"
+  ],
+  "author": "Benjamin Gleitzman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gleitz/global-share-js/issues"
+  }
+}
