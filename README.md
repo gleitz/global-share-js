@@ -2,7 +2,7 @@
 
 ## ShareJS as a Service
 
-ShareJS is great for synchronizing bits of data across the web. `global-share-js` is the code powering `http://gleitzman.com/apps/globalshare/channel`, an open channel for sharing data.
+[ShareJS](https://github.com/share/ShareJS) is great for synchronizing bits of data across the web but setting up your own server can be complicated. `global-share-js` is the code powering `http://gleitzman.com/apps/globalshare/channel`, an open channel for sharing data.
 
 Client Usage
 -----
