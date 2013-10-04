@@ -9,9 +9,9 @@ Client Usage
 
 First load the client libraries
 
-    <script src="http://raw.github.com/gleitz/global-share-js/master/static/bcsocket.js"></script>
-    <script src="http://raw.github.com/gleitz/global-share-js/master/static/share.js"></script>
-    <script src="http://raw.github.com/gleitz/global-share-js/master/static/textarea.js"></script>
+    <script src="http://gleitz.github.io/global-share-js/bcsocket.js"></script>
+    <script src="http://gleitz.github.io/global-share-js/share.js"></script>
+    <script src="http://gleitz.github.io/global-share-js/textarea.js"></script>
 
 Then add a textarea to the page and synchronize it with sharejs
 
