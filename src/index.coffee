@@ -19,5 +19,5 @@ server.use(connect['static'](__dirname + "/../static"))
 ShareJS.attach(server, ShareJSOpts);
 
 # set our server port and start the server
-port = 5000
+port = 9003
 server.listen(port, () -> console.log("Listening on " + port))
