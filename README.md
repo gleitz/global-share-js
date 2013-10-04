@@ -2,7 +2,7 @@
 
 ## ShareJS as a Service
 
-ShareJS is great for synchronizing bits of data across the web. global-share-js is the code powering `http://gleitzman.com/apps/globalshare/channel`, an open channel for sharing data.
+ShareJS is great for synchronizing bits of data across the web. `global-share-js` is the code powering `http://gleitzman.com/apps/globalshare/channel`, an open channel for sharing data.
 
 Client Usage
 -----
@@ -13,7 +13,7 @@ First load the client libraries
     <script src="http://gleitz.github.io/global-share-js/share.js"></script>
     <script src="http://gleitz.github.io/global-share-js/textarea.js"></script>
 
-Then add a textarea to the page and synchronize it with sharejs
+Then add a textarea to the page and synchronize it with `sharejs`
 
     <textarea id="shared"></textarea>
     <script>
